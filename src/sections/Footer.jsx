@@ -12,7 +12,7 @@ const Footer = () => {
                 Privacy Policy{" "}
               </p>
               <p className="text-p5 transition-all duration-500 hover:text-p1">
-                Terms of Use
+                Terms and Conditions of Use
               </p>
             </div>
           </div>
